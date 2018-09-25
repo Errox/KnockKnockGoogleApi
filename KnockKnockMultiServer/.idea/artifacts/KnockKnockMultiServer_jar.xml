@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KnockKnockMultiServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KnockKnockMultiServer_jar</output-path>
+    <root id="archive" name="KnockKnockMultiServer.jar">
+      <element id="module-output" name="KnockKnockMultiServer" />
+    </root>
+  </artifact>
+</component>
